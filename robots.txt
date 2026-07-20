@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enomajoel.github.io/resources-xabhl1/sitemap.xml
